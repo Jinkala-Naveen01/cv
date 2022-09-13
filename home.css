@@ -1,0 +1,50 @@
+.topnav{
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a{
+    float: left;
+    color: #fefefe;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: #add;
+    color: black;
+}
+
+.topnav a:active{
+    background-color: #044604;
+    color:yellow;
+}
+
+
+body{
+    background-color: #eaf6f6;
+}
+
+.hi{
+    color: aqua;
+    margin:auto;
+    width: 20%;
+    border: 3px solid black;
+    padding: 30px;
+    background-image: url(images.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  .hi a{
+color: aqua;
+  }
+
+  .hi p{
+    color: red;
+  }
